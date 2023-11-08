@@ -1,5 +1,5 @@
 ![Integrando seu projeto React com APIs](thumbnail.png)
-
+ 
 # Alfood
 
 O Alfood é um site que lista restaurantes e pratos do menu. 
